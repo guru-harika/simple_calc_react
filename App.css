@@ -1,0 +1,7 @@
+#btn::before {
+  content:"🤍";
+}
+
+#btn:active::before {
+  content: "❤️";
+}
